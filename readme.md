@@ -20,7 +20,7 @@ A grid of the same size as the inputted golf course with arrows representing the
 </p>
 <h1>Example</h1>
 <p>
-<strong>Input</strong> (Width 3, height 3, followed by 3 lines of size 3 each specifying the contents of the course)<br />
+<strong>Input</strong> (Width 3, height 3, followed by 3 lines of size 3 each specifying the contents of the golf course)<br />
 <pre>
 3 3
 2.X
