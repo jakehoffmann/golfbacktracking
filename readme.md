@@ -21,18 +21,18 @@ A grid of the same size as the inputted golf course with arrows representing the
 <h1>Example</h1>
 <p>
 <strong>Input</strong> (Width 3, height 3, followed by 3 lines of size 3 each specifying the contents of the course)<br />
-<code>
-3 3<br />
-2.X<br />
-X.H<br />
-.H1<br />
-</code><br />
+<pre>
+3 3
+2.X
+X.H
+.H1
+</pre><br />
 <strong>Output</strong><br />
-<code>
-v..<br />
-v..<br />
->.^<br />
-</code>
+<pre>
+v..
+v..
+>.^
+</pre>
 </p>
 
 
